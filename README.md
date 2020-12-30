@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am an undergraduate student from BITS Pilani, Goa. I like building robots 🤖.
+I am Robotics Engineer at Peppermint Robots, working on autonomous cleaning robots.
 
-I am currently working on motion planning of aerial robots
-that can be deployed in geometrically constrained environments such as mines and caves, under the guidance of 
+I graduated from BITS Pilani, Goa in Dec 2020. For my bachelor's thesis, I worked on motion planning of aerial robots for exploration and visual search of 
+geometrically constrained environments such as mines and caves, under the guidance of 
 [Prof. Kostas Alexis](http://www.kostasalexis.com/). 
 
-In my free time, I'm learning about object detection and reinforcement learning.
+I'm currently interested in motion planning, perception and RL. 
 
-Feel free to DM me on [twitter](https://twitter.com/theharshulk).
+You can reach out to me on [twitter](https://twitter.com/theharshulk).
