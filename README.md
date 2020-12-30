@@ -8,4 +8,4 @@ geometrically constrained environments such as mines and caves, under the guidan
 
 I'm currently interested in motion planning, perception and RL. 
 
-You can reach out to me on [twitter](https://twitter.com/theharshulk).
+You can reach out to me on [twitter](https://twitter.com/thehardesh).
